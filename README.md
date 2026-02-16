@@ -1,42 +1,57 @@
-<img align="right" width="250px" src="zuko_1.png">
+<h1>👋 Olá, eu sou o Eduardo</h1>
 
+<img align="right" width="200px" src="profile.png">
 
-# 👋 Olá, eu sou o Eduardo
-
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em automação, estruturação de processos e construção de sistemas operacionais leves para equipes.
+<p>
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em automação,
+estruturação de processos e construção de sistemas operacionais leves para equipes.
+</p>
 
 ---
 
-## 🧠 O que eu construo
+## 🧠 Sobre mim
 
-- Sistemas operacionais baseados em Google Sheets
-- Motores com persistência de estado por ID único
-- Estruturas com snapshot mensal de métricas
-- Validações e proteções automatizadas
-- Organização de operações reais com governança leve
+- 📍 Porto Alegre/RS  
+- ⚙️ Foco em automação e organização de operações  
+- 🧩 Construindo sistemas orientados a dados  
+- 📊 Estruturação de processos com governança leve  
+
+---
+
+## 🛠️ O que eu construo
+
+- Sistemas operacionais baseados em Google Sheets  
+- Motores com persistência de estado por ID único  
+- Estruturas com snapshot mensal de métricas  
+- Validações e proteções automatizadas  
+- Separação entre base bruta, estado e camada operacional  
 
 ---
 
 ## 🚀 Projeto em destaque
 
-### Operational Metrics Engine
+### 📌 Operational Metrics Engine
 
 Motor operacional plug-and-play construído com Google Sheets + Apps Script.
 
 Transforma dados brutos em um board estruturado com:
-- Histórico persistente
-- Snapshot mensal de métricas
-- Regras automatizadas
-- Estrutura pronta para times
+
+✔ Histórico persistente  
+✔ Snapshot mensal de métricas  
+✔ Regras automatizadas  
+✔ Estrutura pronta para equipes  
+
+🔗 [Acessar repositório](https://github.com/Aluk4rdq/operational-metrics-engine)
 
 ---
 
 ## 🎯 Interesses técnicos
 
-Automação • Data Ops • Engenharia de Processos • Arquitetura de Sistemas • Estruturação de Dados
+`Automação` • `Data Ops` • `Arquitetura de Sistemas` • `Processos` • `Estruturação de Dados`
 
 ---
 
-## 📈 Objetivo
+## 📈 Em evolução
 
-Evoluir para arquiteturas mais formais, com integração futura a bancos SQL e modelagem estruturada.
+Atualmente evoluindo o projeto para uma arquitetura mais formal,
+com possibilidade futura de integração com bancos SQL e modelagem estruturada.
