@@ -14,7 +14,6 @@ estruturação de processos e construção de sistemas operacionais leves para e
 - 🧩 Construindo sistemas orientados a dados  
 - 📊 Estruturação de processos com governança leve  
 
----
 
 ## 🛠️ O que eu construo
 
