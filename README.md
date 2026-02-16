@@ -7,7 +7,6 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em automaçã
 estruturação de processos e construção de sistemas operacionais leves para equipes.
 </p>
 
-
 ## 🧠 Sobre mim
 
 - 📍 Porto Alegre/RS  
