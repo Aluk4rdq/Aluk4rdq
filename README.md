@@ -1,26 +1,46 @@
-<h1>👋 Olá, eu sou o Eduardo</h1>
+<table>
+<tr>
+<td width="65%">
 
-<img align="right" width="200px" src="profile.png">
+<h1>👋 Olá, eu sou o Eduardo</h1>
 
 <p>
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em automação,
-estruturação de processos e construção de sistemas operacionais leves para equipes.
+estruturação de processos e construção de sistemas orientados a dados.
 </p>
 
-## 🧠 Sobre mim
+<p>
+Atualmente desenvolvendo o <strong>Operational Metrics Engine</strong>,
+um motor operacional construído com Google Sheets + Apps Script.
+</p>
 
-- 📍 Porto Alegre/RS  
-- ⚙️ Foco em automação e organização de operações  
-- 🧩 Construindo sistemas orientados a dados  
-- 📊 Estruturação de processos com governança leve  
+<br>
 
+<a href="https://www.linkedin.com/in/eduardo-sousa-b294a320a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-## 🛠️ O que eu construo
+<a href="https://www.instagram.com/aluk4_rd/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+</td>
+<td width="35%" align="right">
+
+<img src="profile.png" width="200px">
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧠 O que eu construo
 
 - Sistemas operacionais baseados em Google Sheets  
-- Motores com persistência de estado por ID único  
-- Estruturas com snapshot mensal de métricas  
-- Validações e proteções automatizadas  
+- Persistência de estado por ID único  
+- Snapshot mensal de métricas  
+- Validações e regras automatizadas  
 - Separação entre base bruta, estado e camada operacional  
 
 ---
@@ -29,26 +49,11 @@ estruturação de processos e construção de sistemas operacionais leves para e
 
 ### 📌 Operational Metrics Engine
 
-Motor operacional plug-and-play construído com Google Sheets + Apps Script.
-
-Transforma dados brutos em um board estruturado com:
+Motor operacional plug-and-play que transforma dados brutos em um board estruturado com:
 
 ✔ Histórico persistente  
-✔ Snapshot mensal de métricas  
-✔ Regras automatizadas  
+✔ Snapshot mensal  
+✔ Governança leve  
 ✔ Estrutura pronta para equipes  
 
 🔗 [Acessar repositório](https://github.com/Aluk4rdq/operational-metrics-engine)
-
----
-
-## 🎯 Interesses técnicos
-
-`Automação` • `Data Ops` • `Arquitetura de Sistemas` • `Processos` • `Estruturação de Dados`
-
----
-
-## 📈 Em evolução
-
-Atualmente evoluindo o projeto para uma arquitetura mais formal,
-com possibilidade futura de integração com bancos SQL e modelagem estruturada.
