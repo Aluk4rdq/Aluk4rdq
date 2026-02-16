@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
 <h1>👋 Olá, eu sou o Eduardo</h1>
 
@@ -16,20 +16,20 @@ um motor operacional construído com Google Sheets + Apps Script.
 
 <br>
 
-<a href="https://www.linkedin.com/in/eduardo-sousa-b294a320a/" target="_blank">
+<a href="https://linkedin.com/in/seu-link" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://www.instagram.com/aluk4_rd/" target="_blank">
+<a href="https://instagram.com/seu-user" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </td>
-<td width="35%" align="right">
 
-<img src="profile.png" width="200px">
-
+<td width="40%" align="center">
+  <img src="profile.png" width="240px">
 </td>
+
 </tr>
 </table>
 
@@ -57,3 +57,16 @@ Motor operacional plug-and-play que transforma dados brutos em um board estrutur
 ✔ Estrutura pronta para equipes  
 
 🔗 [Acessar repositório](https://github.com/Aluk4rdq/operational-metrics-engine)
+
+---
+
+## 🎯 Interesses técnicos
+
+`Automação` • `Data Ops` • `Arquitetura de Sistemas` • `Processos` • `Estruturação de Dados`
+
+---
+
+## 📈 Em evolução
+
+Evoluindo o projeto para uma arquitetura mais formal,
+com possibilidade futura de integração com bancos SQL e modelagem estruturada.
