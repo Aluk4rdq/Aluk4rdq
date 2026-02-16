@@ -1,3 +1,6 @@
+<img align="right" width="250px" src="zuko_1.png">
+
+
 # 👋 Olá, eu sou o Eduardo
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em automação, estruturação de processos e construção de sistemas operacionais leves para equipes.
